@@ -1,0 +1,5 @@
+function MudarTexto() {
+ document.getElementById("botao").innerHTML = "botão tanajura"
+alert ("Tijolinho")
+
+}
